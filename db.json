@@ -1,0 +1,209 @@
+{
+    "navigation" : [
+        {
+            "title": "Dashboard", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/dashboard-black.svg"
+        },
+        {
+            "title": "Sales orders",
+            "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/sales_orders-black.svg",
+            "children": [
+                { "title": "Add order", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/add_new-black.svg" },
+                { "divider": true },
+                { "title": "View orders" },
+                { "title": "Quote", "indent": true, "badge": 3},
+                { "title": "New", "indent": true, "badge": 12},
+                { "title": "Pick", "indent": true},
+                { "title": "Dispatched", "indent": true},
+                { "title": "On hold", "indent": true},
+                { "title": "New backorder", "indent": true},
+                { "divider": true },
+                { "title": "Manifests & consignments" },
+                { "divider": true },
+                { "title": "Combine orders" },
+                { "title": "Split orders" },
+                { "title": "Checkout errors" },
+                { "divider": true },
+                { "title": "Receipt payments" },
+                { "title": "View payments" },
+                { "title": "Vouchers & rewards" },
+                { "title": "Recurring payments" },
+                { "title": "Standing (recurring) orders" },
+                { "divider": true },
+                { "title": "Disputes" },
+                { "title": "Returns & credits" },
+                { "title": "Refunds" },
+                { "divider": true }
+            ]
+        },{
+            "title": "Customers", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/customers-black.svg",
+            "children": [
+                { "title": "Add customer", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/add_new-black.svg" },
+                { "divider": true },
+                { "title": "View customers & prospects" },
+                { "title": "Customers", "indent": true },
+                { "title": "Prospects", "indent": true },
+                { "divider": true },
+                { "title": "Wish lists" },
+                { "title": "Contact log" },
+                { "title": "Customer groups" }
+            ]
+        },{
+            "title": "Products", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/products-black.svg",
+            "children": [
+                { "title": "Add product", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/add_new-black.svg" },
+                { "divider": true },
+                { "title": "View products" },
+                { "title": "Active", "indent": true },
+                { "title": "Inactive", "indent": true },
+                { "title": "Parent", "indent": true },
+                { "divider": true },
+                { "title": "Product categories" },
+                { "title": "Brands" },
+                { "title": "Reviews" },
+                { "title": "Product specifics" },
+                { "title": "Store finder" }
+            ]
+        },{
+            "title": "Stock control", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/inventory-black.svg",
+            "children": [
+                { "title": "Add purchase order", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/add_new-black.svg" },
+                { "title": "Add stock adjustment", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/add_new-black.svg" },
+                { "divider": true },
+                { "title": "Purchase orders" },
+                { "title": "Pending", "indent": true },
+                { "title": "Sent", "indent": true },
+                { "divider": true },
+                { "title": "Stock adjustment" },
+                { "title": "Stocktake" },
+                { "divider": true },
+                { "title": "Suppliers" },
+                { "title": "Locations / warehouses" },
+                { "title": "Products" },
+                { "divider": true },
+                { "title": "Reports" },
+                { "title": "Forecast demand", "indent": true },
+                { "title": "Stock allocation", "indent": true },
+                { "title": "Restock alerts", "indent": true },
+                { "title": "Stock valuation", "indent": true },
+                { "title": "Cost analysis", "indent": true }
+            ]
+        },{
+            "title": "Assets", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/assets-black.svg",
+            "smallHide": true
+        },{
+            "title": "Shipping", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/shipping-black.svg",
+            "children": [
+                { "title": "Manifests and consignments" },
+                { "divider": true },
+                { "title": "Shipping options" },
+                { "title": "Carrier accounts" },
+                { "title": "Sendle" },
+                { "title": "Other shipping setup" },
+                { "divider": true },
+                { "title": "Reports" },
+                { "title": "Sales by shipping method", "indent": true },
+                { "title": "Sales by shipping service", "indent": true },
+                { "title": "Shipments", "indent": true }
+            ]
+        },{
+            "title": "Marketing", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/marketing-black.svg",
+            "children": [
+                { "title": "Discounts/coupons" },
+                { "title": "Pricing promotions" },
+                { "title": "Voucher/reward program" },
+                { "title": "Email marketing setup" }
+            ]
+        },{
+            "title": "Accounting", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/accounting-black.svg",
+            "children": [
+                { "title": "Tasks" },
+                { "title": "Credits pending allocation" },
+                { "divider": true },
+                { "title": "Export log" },
+                { "title": "Successful exports", "indent": true },
+                { "title": "Unsuccessful exports", "indent": true },
+                { "divider": true },
+                { "title": "Logs & reports" },
+                { "title": "Setup & tools", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/settings-black.svg" }
+            ]
+        },
+        {
+            "title": "Reporting", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/reports-black.svg"
+        },
+        {
+            "title": "360 Analytics", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/360analytics-black.svg"
+        },
+        {
+            "title": "Addons", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/addons-black.svg"
+        },
+        {
+            "title": "Custom links", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/link-black.svg",
+            "smallHide": true
+        },
+        {
+            "title": "Settings & tools", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/settings-black.svg",
+            "children": [
+                { "title": "All settings & tools" },
+                { "divider": true },
+                { "title": "Business details" },
+                { "title": "Logos" },
+                { "title": "Payment methods" },
+                { "title": "Shipping" },
+                { "title": "Currencies & tax" },
+                { "title": "Staff users" },
+                { "divider": true },
+                {"title": "Import data" },
+                {"title": "Export data" },
+                { "divider": true },
+                { "title": "Web Accelerator : On" }
+            ]
+        },
+        { "divider": true },
+        {
+            "title": "Sales Channels",
+            "header": true
+        },
+        {
+            "title": "Webstore", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/webstore-black.svg",
+            "children": [
+                { "title": "Blog" },
+                { "title": "Buying guide" },
+                { "title": "Form" },
+                { "title": "Information page" },
+                { "title": "Product category" },
+                { "divider": true },
+                { "title": "Menus" },
+                { "title": "Content zones" },
+                { "title": "Advertising campaigns" },
+                { "title": "Contact form" },
+                { "divider": true },
+                { "title": "Theme editor" },
+                { "title": "View webstore", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/external_link-black.svg" },
+                { "divider": true },
+                { "title": "Webstore settings" },
+                { "title": "Checkout settings" }
+            ]
+        },
+        {
+            "title": "eBay", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/ebay-black.svg"
+        }, {
+            "title": "Point of sale", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/pos-black.svg"
+        },
+        {
+            "title": "Amazon Australia", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/amazon-black.svg",
+            "children": [
+                { "title": "Products" },
+                { "title": "Settings" },
+                { "title": "Product field mapping" },
+                { "title": "Category mapping" }
+            ]
+        },
+        {
+            "title": "Other", "image": "https://cdn.neto.com.au/assets/cpanel-cdn/images/netoNav/other-channels-black.svg",
+            "children": [
+                { "title": "Shopping comparison feeds" },
+                { "title": "Facebook store" }
+            ]
+        }
+    ]
+}
